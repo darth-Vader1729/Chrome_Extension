@@ -1,8 +1,8 @@
 # Covid-19 Stats India Chrome Extension
 
 ## Overview
+This Chrome Extension provides real-time Covid-19 stats for India and its regions, showing confirmed cases and deaths. Stay updated with the latest data for your preferred state or the country as a whole.
 
-This Chrome Extension provides real-time Covid-19 statistics for various regions across India. It fetches the latest data and displays the confirmed cases and deaths for each state, along with the overall India statistics. It’s a great way to stay informed about the ongoing pandemic and track updates on your preferred region in India.
 
 ### Features:
 - **Region Selection**: Choose from a list of Indian states and view their specific Covid-19 statistics.
@@ -15,8 +15,13 @@ This Chrome Extension provides real-time Covid-19 statistics for various regions
 
 ## Installation
 
-**Download/Clone the Repository**:  
-   If you haven’t done so yet, clone this repository or download the zip file to your local machine.
-
+**1. Download/Clone the Repository**: If you haven’t done so yet, clone this repository or download the zip file to your local machine.
    ```bash
-git clone https://github.com/darth-Vader1729/Chrome_Extension.git
+      git clone https://github.com/darth-Vader1729/Chrome_Extension.git
+   ```
+**2. Open Chrome Extensions Page:** Open Google Chrome and go to chrome://extensions/ in the address bar.
+**3.Enable Developer Mode:** At the top right of the Extensions page, toggle on Developer mode (a switch will appear).
+**4. Load Unpacked Extension:** Click on the Load unpacked button.Navigate to the folder where you cloned the repo and select the extension folder (the one containing manifest.json).
+**5. Check the Extension Icon:** Once loaded, the extension icon will appear in the top-right corner of your Chrome browser.
+**6. Pin the Extension:** If needed, pin the extension for easy access by clicking the puzzle piece icon on the top right and then clicking the pin icon next to your extension.
+
