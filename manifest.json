@@ -1,0 +1,16 @@
+{
+  "name": "Covid-19 Stats India",
+  "version": "1.0.0",
+  "description": "Latest COVID data of various Indian regions",
+  "manifest_version": 3,
+  "author": "darth-Vader1729",
+  "content_security_policy": {
+      "script-src": "'self';",
+      "style-src": "'self' 'unsafe-inline';",
+      "object-src": "'none';"
+    },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Latest Covid Report"
+  }
+}

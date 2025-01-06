@@ -1,0 +1,5 @@
+.custom-dropdown-menu {
+    max-height: 450px;       /* Set the maximum height */
+    overflow-y: auto;        /* Enable vertical scrolling */
+    overflow-x: hidden;      /* Disable horizontal scrolling */
+}
