@@ -18,6 +18,7 @@ This Chrome Extension provides real-time Covid-19 stats for India and its region
 **1. Download/Clone the Repository**: If you haven’t done so yet, clone this repository or download the zip file to your local machine.
    ```bash
       git clone https://github.com/darth-Vader1729/Chrome_Extension.git
+      cd Chrome_Extension
    ```
 **2. Open Chrome Extensions Page:** Open Google Chrome and go to chrome://extensions/ in the address bar. <br> <br>
 **3.Enable Developer Mode:** At the top right of the Extensions page, toggle on Developer mode (a switch will appear). <br> <br>
